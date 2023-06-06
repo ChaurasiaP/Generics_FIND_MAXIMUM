@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4683e33-da2b-4659-b5d8-cdb6c49642a7" name="Changes" comment="" />
+    <list default="true" id="e4683e33-da2b-4659-b5d8-cdb6c49642a7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MaxInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MaxInteger.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,38 +33,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/BRIDGELABZ/Bridgelabz RFP 283/JUnitTestingDemo"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/BRIDGELABZ/Bridgelabz RFP 283/Assignments/GenericsAssignment&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JUnit.TestMaxInteger">
-    <configuration name="TestMaxInteger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\BRIDGELABZ\Bridgelabz RFP 283\Assignments\GenericsAssignment" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestMaxFloat.checkMaxFloatAt_Third_Position">
+    <configuration name="TestMaxFloat.checkMaxFloatAt_First_Position" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GenericsAssignment" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestMaxInteger" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestMaxInteger.checkMaxValueAt_Third_Position" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="GenericsAssignment" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestMaxInteger" />
-      <option name="METHOD_NAME" value="checkMaxValueAt_Third_Position" />
+      <option name="MAIN_CLASS_NAME" value="TestMaxFloat" />
+      <option name="METHOD_NAME" value="checkMaxFloatAt_First_Position" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMaxInteger.checkMaxValueatSecondPosition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestMaxFloat.checkMaxFloatAt_Second_Position" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GenericsAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestMaxFloat" />
+      <option name="METHOD_NAME" value="checkMaxFloatAt_Second_Position" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMaxFloat.checkMaxFloatAt_Third_Position" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GenericsAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestMaxFloat" />
+      <option name="METHOD_NAME" value="checkMaxFloatAt_Third_Position" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMaxInteger.checkMaxValueAt_First_Position" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GenericsAssignment" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestMaxInteger" />
-      <option name="METHOD_NAME" value="checkMaxValueatSecondPosition" />
+      <option name="METHOD_NAME" value="checkMaxValueAt_First_Position" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMaxInteger.checkMaxValueAt_Second_Position" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GenericsAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestMaxInteger" />
+      <option name="METHOD_NAME" value="checkMaxValueAt_Second_Position" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,9 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestMaxInteger" />
-        <item itemvalue="JUnit.TestMaxInteger.checkMaxValueAt_Third_Position" />
-        <item itemvalue="JUnit.TestMaxInteger.checkMaxValueatSecondPosition" />
+        <item itemvalue="JUnit.TestMaxFloat.checkMaxFloatAt_Third_Position" />
+        <item itemvalue="JUnit.TestMaxFloat.checkMaxFloatAt_Second_Position" />
+        <item itemvalue="JUnit.TestMaxFloat.checkMaxFloatAt_First_Position" />
+        <item itemvalue="JUnit.TestMaxInteger.checkMaxValueAt_Second_Position" />
+        <item itemvalue="JUnit.TestMaxInteger.checkMaxValueAt_First_Position" />
       </list>
     </recent_temporary>
   </component>
