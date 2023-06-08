@@ -1,6 +1,5 @@
 public class MaxString {
     public String checkMaxString(String firstString, String secondString, String thirdString){
-        ;
 
         if(firstString.compareToIgnoreCase(secondString) > 0 && firstString.compareToIgnoreCase(thirdString) > 0){
             return firstString;

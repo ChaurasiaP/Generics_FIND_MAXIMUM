@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4683e33-da2b-4659-b5d8-cdb6c49642a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MaxDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MaxString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestMaxDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestMaxString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MaxDouble.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestMaxDouble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MaxString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MaxString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MaxString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MaxString.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,65 +33,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/BRIDGELABZ/Bridgelabz RFP 283/Assignments/GenericsAssignment"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/BRIDGELABZ/Bridgelabz RFP 283/Assignments/GenericsAssignment&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\BRIDGELABZ\Bridgelabz RFP 283\Assignments\GenericsAssignment" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestMaxString.checkMaxStringAt_First_Position">
-    <configuration name="TestMaxFloat.checkMaxFloatAt_Third_Position" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.GenericsTest">
+    <configuration name="GenericsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GenericsAssignment" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestMaxFloat" />
-      <option name="METHOD_NAME" value="checkMaxFloatAt_Third_Position" />
+      <option name="MAIN_CLASS_NAME" value="GenericsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericsTest.MAXIMUM_FloatAt_FIRST_MAXIMUM" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GenericsAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GenericsTest" />
+      <option name="METHOD_NAME" value="MAXIMUM_FloatAt_FIRST_MAXIMUM" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMaxString.checkMaxDoubleAt_First_Position" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GenericsTest.MAXIMUM_IntegerAt_FIRST_POSITION_TEST" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GenericsAssignment" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestMaxString" />
-      <option name="METHOD_NAME" value="checkMaxDoubleAt_First_Position" />
+      <option name="MAIN_CLASS_NAME" value="GenericsTest" />
+      <option name="METHOD_NAME" value="MAXIMUM_IntegerAt_FIRST_POSITION_TEST" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMaxString.checkMaxDoubleAt_Third_Position" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GenericsTest.MAXIMUM_StringAt_THIRD_POSITION_TEST" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GenericsAssignment" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestMaxString" />
-      <option name="METHOD_NAME" value="checkMaxDoubleAt_Third_Position" />
+      <option name="MAIN_CLASS_NAME" value="GenericsTest" />
+      <option name="METHOD_NAME" value="MAXIMUM_StringAt_THIRD_POSITION_TEST" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMaxString.checkMaxFloatAt_First_Position" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GenericsTest.maximumStringAt_SECOND_POSITION_TEST" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GenericsAssignment" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestMaxString" />
-      <option name="METHOD_NAME" value="checkMaxFloatAt_First_Position" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestMaxString.checkMaxStringAt_First_Position" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="GenericsAssignment" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestMaxString" />
-      <option name="METHOD_NAME" value="checkMaxStringAt_First_Position" />
+      <option name="MAIN_CLASS_NAME" value="GenericsTest" />
+      <option name="METHOD_NAME" value="maximumStringAt_SECOND_POSITION_TEST" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestMaxString.checkMaxStringAt_First_Position" />
-        <item itemvalue="JUnit.TestMaxString.checkMaxDoubleAt_Third_Position" />
-        <item itemvalue="JUnit.TestMaxString.checkMaxDoubleAt_First_Position" />
-        <item itemvalue="JUnit.TestMaxString.checkMaxFloatAt_First_Position" />
-        <item itemvalue="JUnit.TestMaxFloat.checkMaxFloatAt_Third_Position" />
+        <item itemvalue="JUnit.GenericsTest" />
+        <item itemvalue="JUnit.GenericsTest.MAXIMUM_FloatAt_FIRST_MAXIMUM" />
+        <item itemvalue="JUnit.GenericsTest.MAXIMUM_IntegerAt_FIRST_POSITION_TEST" />
+        <item itemvalue="JUnit.GenericsTest.MAXIMUM_StringAt_THIRD_POSITION_TEST" />
+        <item itemvalue="JUnit.GenericsTest.maximumStringAt_SECOND_POSITION_TEST" />
       </list>
     </recent_temporary>
   </component>
@@ -131,20 +127,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/TestMaxString.java</url>
-          <line>7</line>
-          <properties class="TestMaxString" method="checkMaxStringAt_First_Position">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
